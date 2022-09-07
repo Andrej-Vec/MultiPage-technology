@@ -2,8 +2,11 @@
 
 ---
 Developers don't talk much. Their code does all the talking
+
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-090909?style=flat&logo=javascript) ![gulp](https://img.shields.io/badge/GULP-090909?style=flat&logo=gulp) ![sass](https://img.shields.io/badge/SASS-090909?style=flat&logo=sass) ![html](https://img.shields.io/badge/HTML-090909?style=flat&logo=html5)
-###Dev setup
+
+
+__Dev setup__
 
 ---
 
